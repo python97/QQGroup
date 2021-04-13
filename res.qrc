@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/images/bold.png</file>
+        <file>res/images/Cherry.png</file>
+        <file>res/images/clear.png</file>
+        <file>res/images/color.png</file>
+        <file>res/images/dr.png</file>
+        <file>res/images/italic.png</file>
+        <file>res/images/jj.png</file>
+        <file>res/images/lswh.png</file>
+        <file>res/images/qmnn.png</file>
+        <file>res/images/qq.png</file>
+        <file>res/images/save.png</file>
+        <file>res/images/spqy.png</file>
+        <file>res/images/under.png</file>
+        <file>res/images/wy.png</file>
+        <file>res/images/ymrl.png</file>
+        <file>res/images/00.jpeg</file>
+        <file>res/images/01.jpeg</file>
+        <file>res/images/02.jpg</file>
+        <file>res/images/03.jpeg</file>
+        <file>res/images/04.jpeg</file>
+        <file>res/images/05.jpeg</file>
+        <file>res/images/06.jpeg</file>
+        <file>res/images/07.jpeg</file>
+        <file>res/images/08.jpeg</file>
+        <file>res/images/09.jpeg</file>
+        <file>res/images/10.jpeg</file>
+        <file>res/images/11.jpeg</file>
+        <file>res/images/12.jpeg</file>
+    </qresource>
+</RCC>
